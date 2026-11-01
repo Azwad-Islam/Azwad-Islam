@@ -18,6 +18,8 @@
 - 🔬 Background in deep learning research with **PyTorch**; now focused on **LLMs, RAG and intelligent agents**
 - 🔎 **Seeking a working student role** in software engineering or AI in Germany
 - 🌐 Website: **[azwad-islam.streamlit.app](https://azwad-islam.streamlit.app/)**
+- 🧩 Sharpening problem solving on competitive programming problems in C++
+- 🤝 Open to internships, collaborations and fun side projects
 - 🗣️ Bengali (native) · English (C1/C2) · German (learning, A1)
 
 ---
@@ -39,7 +41,7 @@
 
 **Data Science & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,sklearn&perline=8" />
   <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -48,13 +50,13 @@
 
 **Software Engineering**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,nodejs,js,ts,nextjs,cpp,java,php,html,css,sass,bootstrap&perline=14" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,nextjs,nodejs,js,ts,cpp,java,php,html,css,sass,bootstrap,tailwind,opengl&perline=17" />
   <img src="https://img.shields.io/badge/Blazor_MAUI-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
 **Data & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,visualstudio,figma&perline=8" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
@@ -98,6 +100,8 @@ A systematic literature review of 2005–2024 work on AI for climate risk, predi
 | 🛍️ [**SoleMate**](https://github.com/Azwad-Islam/SoleMate---Shoe-Sales-Inventory-Platform) | Shoe sales and inventory management platform | Next.js · TypeScript · Tailwind · MS SQL |
 | 🌐 [**Personal Website**](https://github.com/Azwad-Islam/personal_portfolio) | My personal website · [**visit ↗**](https://azwad-islam.streamlit.app/) | Python · Streamlit |
 | 🎨 [**Computer Graphics Project**](https://github.com/Azwad-Islam/Computer-Graphics-Project) | Animated 2D scenes rendered with OpenGL | C++ · OpenGL |
+| ⚙️ [**Advanced .NET**](https://github.com/Azwad-Islam/Advanced-Dot-net) | Layered web apps and APIs in the .NET ecosystem | C# · ASP.NET |
+| 📈 [**Data Science**](https://github.com/Azwad-Islam/DataScience) | Data analysis and visualization work | R |
 | 🧠 [**URI Solves**](https://github.com/Azwad-Islam/URI_solves) | Solutions to URI / Beecrowd online judge problems | C++ |
 
 ---
