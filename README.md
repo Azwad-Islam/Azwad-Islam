@@ -123,9 +123,7 @@ I'm seeking a **working student role** in software engineering or AI. I hold a r
   <a href="https://azwad-islam.streamlit.app/"><img src="https://img.shields.io/badge/Website-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   <a href="https://github.com/Azwad-Islam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:azwad.sachcha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add your LinkedIn: replace YOUR-HANDLE and uncomment
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/azwad-islam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
