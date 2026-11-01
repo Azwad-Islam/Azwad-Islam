@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Azwad%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Eng%20Data%20Science%20%26%20AI%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Azwad-Islam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=M.Eng+Data+Science+%26+AI+%40+Munich;Speech+emotion+recognition+researcher;Transformers+%2B+BiLSTMs+with+PyTorch;Building+web+apps+with+Next.js+%26+TypeScript;Writing+.NET+and+C%23+backends;Exploring+data+science+with+R;Drawing+pixels+with+C%2B%2B+%26+OpenGL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=M.Eng+Data+Science+%26+AI+%40+Munich;Speech+emotion+recognition+researcher;Transformers+%2B+BiLSTMs+with+PyTorch;Building+web+apps+with+Next.js+%26+TypeScript;Writing+.NET+and+C%23+backends;Exploring+data+science+with+R;Drawing+pixels+with+C%2B%2B+%26+OpenGL" alt="Typing SVG" />
 </a>
 
 </div>
@@ -74,8 +74,8 @@ A speech emotion recognition model, **HybridLSTMTransformer**, that combines sta
 ### 📈 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Azwad-Islam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azwad-Islam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azwad-Islam&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azwad-Islam&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Azwad-Islam&theme=tokyonight&hide_border=true" />
 </div>
