@@ -76,10 +76,7 @@ A speech emotion recognition model, **HybridLSTMTransformer**, that combines sta
 
 <div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azwad-Islam&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azwad-Islam&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Azwad-Islam&theme=tokyonight&hide_border=true" />
-</div>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azwad-Islam&theme=tokyonight" /></div>
 
 ---
 
