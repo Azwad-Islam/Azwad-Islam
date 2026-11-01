@@ -92,8 +92,4 @@ A speech emotion recognition model, **HybridLSTMTransformer**, that combines sta
   -->
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azwad-Islam&color=38bdf8&style=flat-square&label=Profile+views" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
