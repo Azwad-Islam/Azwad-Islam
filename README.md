@@ -20,7 +20,7 @@
 - 🌐 Website: **[azwad-islam.streamlit.app](https://azwad-islam.streamlit.app/)**
 - 🧩 Sharpening problem solving on competitive programming problems in C++
 - 🤝 Open to internships, collaborations and fun side projects
-- 🗣️ Bengali (native) · English (C1/C2) · German (learning, A1)
+- 🗣️ English (C1/C2) · German (learning, A1)
 
 ---
 
