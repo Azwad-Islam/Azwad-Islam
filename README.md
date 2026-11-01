@@ -16,6 +16,7 @@
 - 🏛️ **B.Sc. in Computer Science & Engineering** from **American International University-Bangladesh (AIUB)**
 - 🔬 BSc thesis: **speech emotion recognition** with a hybrid Transformer + BiLSTM model (79% on RAVDESS)
 - 🤖 Interested in deep learning, audio and sequence modeling, and AI-powered applications
+- 🌐 Portfolio: **[azwad-islam.streamlit.app](https://azwad-islam.streamlit.app/)**
 - 💻 Background in full-stack development: I like building things end to end, from database to UI
 - 🧩 Sharpening problem solving on competitive programming problems in C++
 - 🤝 Open to internships, collaborations and fun side projects
@@ -63,7 +64,7 @@ A speech emotion recognition model, **HybridLSTMTransformer**, that combines sta
 | Project | What it is | Built with |
 |---|---|---|
 | 🛍️ [**SoleMate**](https://github.com/Azwad-Islam/SoleMate---Shoe-Sales-Inventory-Platform) | Shoe sales and inventory management platform | Next.js · TypeScript · Tailwind · MS SQL |
-| 🌐 [**Personal Portfolio**](https://github.com/Azwad-Islam/personal_portfolio) | My own portfolio website | HTML · CSS · JS |
+| 🌐 [**Personal Portfolio**](https://github.com/Azwad-Islam/personal_portfolio) | My portfolio website · [**live site ↗**](https://azwad-islam.streamlit.app/) | Python · Streamlit |
 | 🎨 [**Computer Graphics Project**](https://github.com/Azwad-Islam/Computer-Graphics-Project) | Animated 2D scenes rendered with OpenGL | C++ · OpenGL |
 | ⚙️ [**Advanced .NET**](https://github.com/Azwad-Islam/Advanced-Dot-net) | Layered web apps and APIs in the .NET ecosystem | C# · ASP.NET |
 | 📊 [**Data Science**](https://github.com/Azwad-Islam/DataScience) | Data analysis and visualization work | R |
@@ -85,6 +86,7 @@ A speech emotion recognition model, **HybridLSTMTransformer**, that combines sta
 ### 📫 Connect with me
 
 <p align="center">
+  <a href="https://azwad-islam.streamlit.app/"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   <a href="https://github.com/Azwad-Islam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:azwad.sachcha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Add your LinkedIn: replace YOUR-HANDLE and uncomment
