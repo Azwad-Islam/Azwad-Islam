@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Azwad%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20M.Eng%20Data%20Science%20and%20AI&descAlignY=58&descSize=18" width="100%" />
 
-<a href="https://azwad-islam.streamlit.app/">
+<a href="https://azwad-islam.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Bridging+software+engineering+and+AI;M.Eng+Data+Science+%26+AI+%40+Munich;1.5+years+of+full-stack+C%23+%2F+.NET+%2F+Angular;Exploring+LLMs%2C+RAG+and+intelligent+agents;Open+to+working+student+roles" alt="Typing SVG" />
 </a>
 
@@ -17,7 +17,7 @@
 - 🏛️ **B.Sc. in Computer Science & Engineering** from **American International University-Bangladesh (AIUB)**
 - 🔬 Background in deep learning research with **PyTorch**; now focused on **LLMs, RAG and intelligent agents**
 - 🔎 **Seeking a working student role** in software engineering or AI in Germany
-- 🌐 Website: **[azwad-islam.streamlit.app](https://azwad-islam.streamlit.app/)**
+- 🌐 Website: **[azwad-islam.github.io](https://azwad-islam.github.io/)**
 - 🧩 Sharpening problem solving on competitive programming problems in C++
 - 🤝 Open to internships, collaborations and fun side projects
 - 🗣️ English (C1/C2) · German (learning, A1)
@@ -98,7 +98,7 @@ A systematic literature review of 2005–2024 work on AI for climate risk, predi
 | 💻 **Multi-Platform Restaurant POS** | Multi-tenant POS system at Threesquare: orders, tables, payments and roles | C# · ASP.NET Core · Angular · Blazor MAUI · PostgreSQL |
 | 📊 **Sensor Data Processing** | Automated accelerometer calibration and raw sensor data processing (M.Eng. coursework) | Python · pandas · NumPy |
 | 🛍️ [**SoleMate**](https://github.com/Azwad-Islam/SoleMate---Shoe-Sales-Inventory-Platform) | Shoe sales and inventory management platform | Next.js · TypeScript · Tailwind · MS SQL |
-| 🌐 [**Personal Website**](https://github.com/Azwad-Islam/personal_portfolio) | My personal website · [**visit ↗**](https://azwad-islam.streamlit.app/) | Python · Streamlit |
+| 🌐 [**Personal Website**](https://github.com/Azwad-Islam/Azwad-Islam.github.io) | My personal website · [**visit ↗**](https://azwad-islam.github.io/) | HTML · CSS · JavaScript · GitHub Pages |
 | 🎨 [**Computer Graphics Project**](https://github.com/Azwad-Islam/Computer-Graphics-Project) | Animated 2D scenes rendered with OpenGL | C++ · OpenGL |
 | ⚙️ [**Advanced .NET**](https://github.com/Azwad-Islam/Advanced-Dot-net) | Layered web apps and APIs in the .NET ecosystem | C# · ASP.NET |
 | 📈 [**Data Science**](https://github.com/Azwad-Islam/DataScience) | Data analysis and visualization work | R |
@@ -120,7 +120,7 @@ A systematic literature review of 2005–2024 work on AI for climate risk, predi
 I'm seeking a **working student role** in software engineering or AI. I hold a residence permit for study and am eligible to work part-time in Germany.
 
 <p align="center">
-  <a href="https://azwad-islam.streamlit.app/"><img src="https://img.shields.io/badge/Website-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://azwad-islam.github.io/"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://github.com/Azwad-Islam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:azwad.sachcha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/azwad-islam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
